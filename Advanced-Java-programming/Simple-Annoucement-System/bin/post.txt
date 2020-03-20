@@ -1,0 +1,11 @@
+false
+Sat Oct 06 14:30:14 CST 2018
+HW3 Announcement System
+Two State
+  1. View
+    - not Owner: like-or-unlike
+    - Owner: like-or-unlike(disable), to-edit, new-post
+  2. Edit(Owner Only): save, save-as, import, cancel
+
+Have a nice day.
+Your teaching assistant.
